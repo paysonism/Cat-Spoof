@@ -33,4 +33,4 @@ To find all the releases and resources, click [here](https://github.com/P-DennyG
 
 Made By [Payson Holmes](https://github.com/P-DennyGamingYT/) and [Cat Man](https://discord.com/users/991914333372162109)
 
-&copy; 2022 - PDennSploit Softworks, Cat-Ware
+&copy; 2023 - PDennSploit Softworks, Cat-Ware
